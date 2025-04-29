@@ -56,6 +56,12 @@ export default function Portfolio({ searchQuery }) {
                             imageUrl="https://github.com/user-attachments/assets/5f42e914-b101-4600-9efe-a515289dd9f2"
                             Linkurl="https://github.com/fiqihbadrian/sistem-manajemen-printer" 
                         />
+                        <BlogCard 
+                            title="Brixite Society" 
+                            description="Brixite Society is all about bringing bold, stylish streetwear that speaks to your authentic vibe. Created as an independent fashion project, Brixite focuses on original designs with strong character, made for youth who want to stand out with confidence." 
+                            imageUrl="https://raw.githubusercontent.com/fiqihbadrian/brixite/refs/heads/main/public/image.png"
+                            Linkurl="https://www.brixite.biz.id" 
+                        />
                         
                     </div>
                 </div>
