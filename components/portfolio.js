@@ -58,7 +58,7 @@ export default function Portfolio({ searchQuery }) {
                         />
                         <BlogCard 
                             title="Brixite Society" 
-                            description="Brixite Society is all about bringing bold, stylish streetwear that speaks to your authentic vibe. Created as an independent fashion project, Brixite focuses on original designs with strong character, made for youth who want to stand out with confidence." 
+                            description="Brixite Society is all about bringing bold, stylish streetwear that speaks to your authentic vibe." 
                             imageUrl="https://raw.githubusercontent.com/fiqihbadrian/brixite/refs/heads/main/public/image.png"
                             Linkurl="https://www.brixite.biz.id" 
                         />
