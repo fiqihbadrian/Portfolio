@@ -20,11 +20,7 @@ export default function About() {
                     <h1 data-aos="fade-down" data-aos-duration="1000" className="text-3xl md:text-5xl font-bold">About Me!</h1>
 
                     <p data-aos="fade-left" data-aos-duration="1000" className="py-4">
-                    Fiqih Badrian is my full name, domiciled in Bogor, Indonesia. Graduated from SMK Boash 1 Bogor with experience in Field Work Practices at Aneka Citra Computer Plaza Jambu 2 store.
-                    </p>
-                    <p data-aos="fade-left" data-aos-duration="1000" className="py-1">
-                    I have expertise in programming using Next.js, Express, MongoDB, MySQL, Tailwind, and various other web development tools.
-                    </p>
+                    Fiqih Badrian is my full name, domiciled in Bogor, Indonesia. I am a graduate of SMK Boash 1 Bogor with expertise in building applications using the latest technologies such as Next.js, Express, Laravel, MongoDB, MySQL, Tailwind CSS, Bootstrap and others.</p>
                     <div data-aos="fade-up" data-aos-duration="1000">
                     <a target="blank" href="mailto:fiqihbadrian@gmail.com"><button className="btn btn-primary sm:btn-sm md:btn-md lg:btn-lg mt-5">Contact Me!</button></a>
                     </div>
